@@ -73,7 +73,8 @@ header a {
 p {
   color: #fff;
   margin: 0 0 1em;
-  line-height: 1.65;
+  font-size: 1.2rem;
+  line-height: 1.75;
 }
 
 h1 {

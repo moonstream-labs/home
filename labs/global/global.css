@@ -74,9 +74,10 @@ header a {
 }
 
 p {
-  line-height: 1.65;
+  line-height: 1.75;
   margin: 0 0 1em;
   color: white;
+  font-size: 1.2rem;
 }
 
 h1 {
