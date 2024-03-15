@@ -4,8 +4,8 @@ title: MoonStream Labs
 description: something else entirely.
 content_collection: posts
 
-og_image: /img/og_emma.png
-author: Emma Bennet
+og_image:
+author: Mister Marshall
 pubDate: 2023-12-05
 ---
 
