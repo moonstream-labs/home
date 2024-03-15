@@ -1,6 +1,6 @@
 ---
 title: Artificial General Incompetence
-hero: img/ui-1.png
+hero: img/goofy.jpeg
 pubDate: 2023-05-22
 credits: vlockn
 ---
