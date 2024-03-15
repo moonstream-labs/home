@@ -1,5 +1,5 @@
 #!/bin/bash
-nue build -r blog --production
+nue build -r labs --production
 git add -A
 git commit -m "🧟‍♂️"
 git push
