@@ -1,0 +1,20 @@
+.post {
+  gap: 3rem;
+  margin-bottom: 3rem;
+  transition: transform .1s;
+}
+
+.post:hover {
+  transform: scale(1.01);
+}
+
+.post img {
+  border-radius: 4px;
+  max-width: 12em;
+}
+
+.post time {
+  color: #999;
+  font-size: 90%;
+  font-weight: 300;
+}

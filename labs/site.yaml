@@ -1,0 +1,23 @@
+avatar: /img/moonstream-pfp.jpeg
+favicon: /img/moonstream-pfp-smol.png
+fullname: MoonStream Labs.
+
+# OG image
+og: /img/og.jpg
+origin: https://moonstream.xyz
+
+social:
+  - icon: email
+    url: email:admin@moonstream.xyz
+    alt: MoonStream Labs email address
+  - icon: twitter
+    url: //twitter.com/moonstreamlabs
+    alt: Twitter profile
+  - icon: github
+    url: //github.com/moonstream-labs/
+    alt: Github projects
+
+
+# nue config
+globals: [global]
+page_router: true
