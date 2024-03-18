@@ -1,5 +1,5 @@
 ---
-title: Sample 1
+title: 10 Reasons Why Mass Unemployment Is Actually Great
 hero: img/dashboard-3.png
 pubDate: February 5, 2024 12:00 PM
 credits: ui8

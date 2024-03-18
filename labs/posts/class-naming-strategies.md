@@ -1,5 +1,5 @@
 ---
-title: Sample 4
+title: Artificial General Incompetence Has Been Achieved Internally
 hero: img/dashboard-3.png
 pubDate: February 5, 2024 12:00 PM
 credits: ui8
