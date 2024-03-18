@@ -1,5 +1,5 @@
 ---
-title: Llamas, Everywhere!
+title: Sample 1
 hero: img/dashboard-3.png
 pubDate: February 5, 2024 12:00 PM
 credits: ui8

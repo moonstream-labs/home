@@ -2,9 +2,12 @@
   box-sizing: border-box;
 }
 
-body {
+:root {
   background-color: #0b0b0b;
-  max-width: 1000px;
+}
+
+body {
+  max-width: 80%;
   margin: 0 auto;
   padding: 5%;
   font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Segoe UI, Roboto;

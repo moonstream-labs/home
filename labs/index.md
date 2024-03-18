@@ -8,6 +8,4 @@ author: Mister Marshall
 pubDate: 2023-12-05
 ---
 
-# Office hours start at midnight.
-
-
+# Coming soon...

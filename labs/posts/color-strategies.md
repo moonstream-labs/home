@@ -1,5 +1,5 @@
 ---
-title: Practical Strategies for Sleep Deprivation
+title: Sample 2
 credits: Sleepy McPherson
 hero: img/colors-1.png
 pubDate: 2022-06-13

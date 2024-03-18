@@ -1,5 +1,5 @@
 ---
-title: Good Tidings To Ye Merry Gentlemen
+title: Sample 4
 hero: img/dashboard-3.png
 pubDate: February 5, 2024 12:00 PM
 credits: ui8
